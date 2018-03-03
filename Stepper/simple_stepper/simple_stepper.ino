@@ -13,7 +13,6 @@
  * - orange and black: coil 1
  * - brown and yellow: coil 2
  *
- * (cleft) 2005 DojoDave for K3
  * http://www.0j0.org | http://arduino.berlios.de
  */
 
